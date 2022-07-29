@@ -1,8 +1,8 @@
-# [Website Link for this](https://www.harmonious-cat-3802cc.netlify.app)
+# [Link for Result](https://www.harmonious-cat-3802cc.netlify.app)
 
-## Author
+## Author Info
 
 - Website - [NikhilMath.com](https://www.nikhilmath.com)
-- LinkedIn - [LinkedIn](https://www.linkedin.com/in/nikhil-math/)
+- LinkedIn - [linkedin.com/in/nikhil-math/](https://www.linkedin.com/in/nikhil-math/)
 
 
