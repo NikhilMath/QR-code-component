@@ -2,7 +2,7 @@
 
 ## Author
 
-- Website - [NikhilMath.com](https://www.nikhilmath.com)
-- LinkedIn - [LinkedIn](https://www.linkedin.com/in/nikhil-math/)
+- Personal Website - [NikhilMath.com](https://www.nikhilmath.com)
+- Personal LinkedIn - [linkedin.com/in/nikhil-math/](https://www.linkedin.com/in/nikhil-math/)
 
 
